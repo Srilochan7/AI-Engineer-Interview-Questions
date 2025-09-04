@@ -1,6 +1,6 @@
 # 🧠 AI Engineer / AI Internship Interview Questions
 
-This repository contains interview questions that were asked to me for an **AI Engineer role / AI Internship**.  
+This repository contains interview questions that were asked to me for an **AI Engineer role / AI Internship**.  (5+ interviews)
 The questions are divided into different categories: Machine Learning, Deep Learning, Generative AI, Core AI, LLMs, and Others.  
 
 ---
