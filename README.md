@@ -1,6 +1,8 @@
 # 🧠 AI Engineer / AI Internship Interview Questions
 This repository contains interview questions that were asked to me for an **AI Engineer role / AI Internship** (6+ interviews). The questions are divided into different categories: Machine Learning, Deep Learning, Core AI, Generative AI, LLMs, Agentic AI, and Others.
 
+also check out - https://github.com/Srilochan7/AI-roadmap
+
 ---
 
 ## 📌 Categories
